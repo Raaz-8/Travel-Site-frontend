@@ -1,2 +1,1 @@
-Travel Site
-Explore India
+Travel Site Explore India
